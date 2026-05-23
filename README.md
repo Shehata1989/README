@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🌟 Passionate and results-driven **Front-End Developer** focused on creating modern, responsive, and high-performance web applications.
+🌟 Passionate and results-driven **Full-Stack Developer** focused on creating modern, responsive, and high-performance web applications.
 
 💡 I transform complex problems into elegant, user-friendly interfaces using the best tools in the modern web stack.
 
